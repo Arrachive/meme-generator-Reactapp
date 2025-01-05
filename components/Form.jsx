@@ -3,7 +3,7 @@ import React from "react"
 
 export default function Main() {
   const [meme,setMeme] = React.useState({
-    topText: "one does not simoly",
+    topText: "one does not simply",
     bottomText: "walk into mordor",
     imageUrl: "http://i.imgflip.com/1bij.jpg"
 })
